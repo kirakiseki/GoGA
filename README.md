@@ -4,10 +4,19 @@ An implementation of genetic algorithm in Golang
 # Usage
 run in **Bash(Linux/macOS)/CMD(Windows)**. It would print optimized value in each generation and generate a GIF(GA.gif) in the same folder to visualized the evolve process.
 
-GA.gif:
-
+# Preview
+## GA.gif
 ![](https://s-gz-4165-image.oss.dogecdn.com/2022/12/15/GA1.gif)
 
+
+## Windows 
+![](https://s-gz-4165-image.oss.dogecdn.com/2022/12/15/20221215153855.png)
+
+## macOS
+![](https://s-gz-4165-image.oss.dogecdn.com/2022/12/15/20221215154055.png)
+
+## Linux
+![](https://s-gz-4165-image.oss.dogecdn.com/2022/12/15/20221215154858.png)
 # Release
 
 You can get pre-build binary release at [GoGA/releases](https://github.com/kirakiseki/GoGA/releases), which contains various packages for different targets.
